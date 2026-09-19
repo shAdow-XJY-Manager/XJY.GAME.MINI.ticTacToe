@@ -1,4 +1,4 @@
 # tic_tac_toe
 
 ## website
-[https://shadowplusing.website/tic_tac_toe/](https://shadowplusing.website/tic_tac_toe/)
+[https://shadowplusing.cn/XJY.GAME.MINI.ticTacToe/](https://shadowplusing.cn/XJY.GAME.MINI.ticTacToe/)
